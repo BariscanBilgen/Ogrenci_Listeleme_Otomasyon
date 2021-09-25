@@ -1,5 +1,5 @@
 # Öğrenci-Listeleme
-Kendimi geliştirmek için yaptığım C# projesi bir nevi öğrenci işleri otomasyonu sayılır. öğrenci seçmeden silerseniz mesaj kutusu alırsınız "öğrenci seçin" şeklinde uyarılırsınız. Aynı TC'ye sahip 1 den fazla insan eklemeye çalışırsanız mesaj kutusu alırsınız "Bu TZ zaten kayıtlı" şeklinde uyarılırsınız. Ve daha fazlası..
+Kendimi geliştirmek için yaptığım C# projesi bir nevi öğrenci işleri otomasyonu sayılır. Alan boş bırakır ekle derseniz mesaj kutusu alırsınız "Formda boş alan bırakmayız" şeklinde uyarılırsınız.  öğrenci seçmeden silerseniz mesaj kutusu alırsınız "öğrenci seçin" şeklinde uyarılırsınız. Aynı TC'ye sahip 1 den fazla insan eklemeye çalışırsanız mesaj kutusu alırsınız "Bu TZ zaten kayıtlı" şeklinde uyarılırsınız. Ve daha fazlası..
 
 ![ögrlist](https://user-images.githubusercontent.com/91004987/134763408-5ad52c17-0cc5-4463-969c-224810c2e850.JPG)
 ![ogrlst5](https://user-images.githubusercontent.com/91004987/134763406-f175c665-784b-416d-94d8-102e63a946bd.JPG)
