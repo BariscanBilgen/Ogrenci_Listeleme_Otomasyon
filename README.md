@@ -1,4 +1,4 @@
-# Öğrenci-Listeleme
+# Öğrenci Listeleme
 Kendimi geliştirmek için yaptığım C# projesi bir nevi öğrenci işleri otomasyonu sayılır. Eklenen kişi sayısı sağ tarafta sayaç ile sayılır. Alan boş bırakır ekle derseniz mesaj kutusu alırsınız "Formda boş alan bırakmayız" şeklinde uyarılırsınız.  öğrenci seçmeden silerseniz mesaj kutusu alırsınız "öğrenci seçin" şeklinde uyarılırsınız. Aynı TC'ye sahip 1 den fazla insan eklemeye çalışırsanız mesaj kutusu alırsınız "Bu TC zaten kayıtlı" şeklinde uyarılırsınız. 
 
 ![ögrlist](https://user-images.githubusercontent.com/91004987/134763408-5ad52c17-0cc5-4463-969c-224810c2e850.JPG)
